@@ -1,0 +1,29 @@
+.myDropd {
+    padding:6.5px;
+    cursor: pointer;
+    border: 0;
+    background-color: rgb(48, 97, 2);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: white;
+}
+.myDropd:hover {
+    opacity: 0.9;
+}
+option {
+    padding: 15px;
+}
+.customDropdown {
+    color: black;
+    cursor: pointer;
+}
+.customDropdown:hover{
+    color: black;
+    background-color: transparent;
+}
+.customDropdown:focus{
+    background-color: white;
+}
+
+.dropdownItem:active {
+    background-color: white;
+}

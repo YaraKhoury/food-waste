@@ -1,0 +1,92 @@
+.place-item {
+  margin: 1rem 0;
+}
+
+.place-item__content {
+  padding: 0;
+}
+
+.place-item__info {
+  padding: 1rem;
+  text-align: center;
+}
+
+.place-item__image {
+  width: 100%;
+  height: 12.5rem;
+  margin-right: 1.5rem;
+}
+
+.place-item__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.place-item__info h2,
+.place-item__info h3,
+.place-item__info p {
+  margin: 0 0 0.5rem 0;
+}
+
+.place-item__actions {
+  padding: 1rem;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+
+.place-item__modal-content {
+  padding: 0;
+}
+
+.place-item__modal-actions {
+  text-align: right;
+}
+
+.place-item__actions button,
+.place-item__actions a {
+  margin: 0.5rem;
+}
+
+.map-container {
+  height: 15rem;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .place-item__image {
+    height: 20rem;
+  } 
+}
+.title {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 85px;
+}
+.title:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.card-custom:hover{
+  opacity: 0.5;
+}
+a:hover {
+  color: white;
+  background-color: white;
+  text-decoration: none;
+}
+.mytitle {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 15px;
+}
+.expiryDate {
+  color: rgb(168, 167, 167);
+  font-weight: bold;
+  text-align: center;
+}

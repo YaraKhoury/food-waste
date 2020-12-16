@@ -1,0 +1,22 @@
+.section-footer {
+    background-color: rgb(245, 245, 245);
+    margin-top: 25px;
+      
+}
+
+.socialMedia {
+    color: black;
+    
+}
+.socialMedia:hover {
+    color: gray;
+    background-color: transparent;
+}
+
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+
+/* Facebook Icons Size */
+.fa {
+    font-size: 25px;
+    margin-left: 20px;
+}

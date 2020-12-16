@@ -1,0 +1,10 @@
+
+
+.reservationPage {
+    background: url("https://c1.wallpaperflare.com/preview/499/58/543/black-and-white-people-restaurant-talking.jpg");
+    background-size: cover;
+}
+Table > tr > td {
+    width: 106px !important;
+    padding: 1135px;
+}

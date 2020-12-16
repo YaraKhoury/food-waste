@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5fd878767ad40d36f88b423d"
+  },
+  "cart": [],
+  "reviews": [
+    {
+      "id": 1235213,
+      "description": "Best Service is reached by your web site and cheapest products outhere"
+    },
+    {
+      "id": 1235214,
+      "description": "Nothing is better than a product that have a cheap price and good taste"
+    }
+  ],
+  "reservation": [],
+  "name": "Admin",
+  "email": "admin@admin.com",
+  "password": "admin123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd878877ad40d36f88b425a"
+  },
+  "cart": [],
+  "reviews": [],
+  "reservation": [
+    {
+      "userId": "5fd878877ad40d36f88b425a",
+      "marketName": "Burger Queen",
+      "numberOfPeople": "2",
+      "reservedBy": "yara",
+      "reservationDate": "25 august",
+      "otherComments": "table with view"
+    },
+    {
+      "userId": "5fd878877ad40d36f88b425a",
+      "marketName": "Home Made",
+      "numberOfPeople": "5",
+      "reservedBy": "maya",
+      "reservationDate": "20 december",
+      "otherComments": "nothing to add"
+    }
+  ],
+  "name": "yara mikhael",
+  "email": "yaramikhael4@gmail.com",
+  "password": "73932630",
+  "__v": 0
+}]
